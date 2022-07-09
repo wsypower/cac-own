@@ -1,0 +1,17 @@
+{
+  "name": "@commander/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "esno ./index.ts",
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commander/utils": "workspace:^1.0.0"
+  }
+}
