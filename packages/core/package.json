@@ -2,10 +2,10 @@
   "name": "@commander/core",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "type": "module",
   "scripts": {
-    "start": "esno ./index.ts",
+    "start": "esno ./src/index.ts",
     "test": "vitest"
   },
   "keywords": [],
