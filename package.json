@@ -4,7 +4,8 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "start": "esno src/index.ts"
+    "start": "esno src/index.ts",
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",

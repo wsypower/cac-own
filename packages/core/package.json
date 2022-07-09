@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "esno ./index.ts",
-    "test": "test"
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",
